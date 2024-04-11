@@ -1,4 +1,4 @@
-#프로젝트를 받은후 .env 파일을 생성하고 "REACT_APP_OPENAI_API_KEY= <openapi key>"를 작성해주면 바로 실행해 보실수 있습니다.
+# 프로젝트를 받은후 .env 파일을 생성하고 "REACT_APP_OPENAI_API_KEY= <openapi key>"를 작성해주면 바로 실행해 보실수 있습니다.
 
 # Getting Started with Create React App
 
